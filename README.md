@@ -1,0 +1,1 @@
+# custom-adguard-dns-rules
