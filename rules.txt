@@ -1,6 +1,6 @@
 ||bing.com^
 # Connected User Experiences and Telemetry
-||vortex-win.data.microsoft.com^^
+||vortex-win.data.microsoft.com^
 ||vortex.data.microsoft.com^
 ||vortex.data.microsoft.com.akadns.net^
 ||vortex-sandbox.data.microsoft.com^
